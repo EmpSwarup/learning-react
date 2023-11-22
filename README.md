@@ -1,3 +1,3 @@
-# Learing React JS
+# Counter using useState
 
-This repository contains all the codes I have used for learning React. Check the branches for more information.
+This branch contains code for Counter using useState
